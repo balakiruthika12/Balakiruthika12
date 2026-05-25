@@ -41,15 +41,6 @@ My journey involves continuous learning, working on data-driven projects, and ex
 
 ---
 
-## 🤖 Machine Learning & Analysis Showcase
-
-| Algorithm | Concept | Application |
-|----------|--------|------------|
-| Linear Regression | Continuous Prediction | Sales Forecasting |
-| Logistic Regression | Classification | Customer Churn Prediction |
-
----
-
 ## 📈 What I Do
 
 ✔️ Data Cleaning & Preprocessing  
