@@ -41,6 +41,14 @@ My journey involves continuous learning, working on data-driven projects, and ex
 
 ---
 
+# 🤖 Machine Learning Projects
+
+| Project Name | Live Link | Description | Tools Used |
+|---|---|---|---|
+| House Price Prediction | Repo | Built a machine learning model to predict house prices based on features like area, bedrooms, and bathrooms with a Streamlit web application for real-time predictions | Python, Pandas, NumPy, Scikit-Learn, Streamlit, Joblib |
+
+---
+
 ## 📈 What I Do
 
 ✔️ Data Cleaning & Preprocessing  
