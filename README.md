@@ -10,7 +10,7 @@ My journey involves continuous learning, working on data-driven projects, and ex
 
 📍 Coimbatore, Tamil Nadu, India  
 🎓 Rathinam Technical Campus  
-🎯 Areas of Interest: Data Analysis, Machine Learning, Business Intelligence, Data Visualization  
+🎯 Areas of Interest: Data Analysis, Machine Learning, Business Intelligence, Data Visualization, Cloud Computing, Frontend Development
 
 ---
 
