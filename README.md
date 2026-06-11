@@ -32,7 +32,6 @@ My journey is driven by continuous learning, hands-on projects, and curiosity ab
 ![AWS Glue](https://img.shields.io/badge/AWS_Glue-orange?style=for-the-badge\&logo=amazonaws)
 ![Amazon Athena](https://img.shields.io/badge/Amazon_Athena-orange?style=for-the-badge\&logo=amazonaws)
 ![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-orange?style=for-the-badge\&logo=amazonaws)
-![Amazon EMR](https://img.shields.io/badge/Amazon_EMR-orange?style=for-the-badge\&logo=amazonaws)
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-orange?style=for-the-badge\&logo=awslambda)
 
 
