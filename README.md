@@ -1,20 +1,22 @@
-# Hello 👋 I'm Balakiruthika R
+# Hello  I'm Balakiruthika R
 
 ---
 
-## 💡 About Me
+##  About Me
 
-I am a passionate **Data Analyst** with a strong interest in turning raw data into meaningful insights. I specialize in analyzing datasets, building visualizations, and applying machine learning techniques to solve real-world problems.
+I am a passionate Data Analyst with a strong interest in transforming raw data into meaningful insights and business-driven solutions. I enjoy working with datasets, uncovering patterns, building visualizations, and applying analytical techniques to solve real-world problems.
 
-My journey involves continuous learning, working on data-driven projects, and exploring how analytics can support better decision-making. I believe in the power of curiosity, consistency, and hands-on practice to build a strong foundation in tech.
+I have earned the AWS Certified Cloud Practitioner certification, which strengthened my understanding of cloud computing fundamentals, AWS services, security, architecture, and cost optimization. Alongside data analytics, I am actively learning Full Stack Development to build modern end-to-end web applications and expand my software engineering skills.
 
-📍 Coimbatore, Tamil Nadu, India  
-🎓 Rathinam Technical Campus  
-🎯 Areas of Interest: Data Analysis, Machine Learning, Business Intelligence, Data Visualization, Cloud Computing, Frontend Development
+My journey is driven by continuous learning, hands-on projects, and curiosity about emerging technologies. I am passionate about combining data, cloud technologies, and software development to create impactful solutions that support better decision-making and improve user experiences.
+
+ Coimbatore, Tamil Nadu, India
+ Rathinam Technical Campus
+ Areas of Interest: Data Analytics, Data Engineering, Machine Learning, Cloud Computing (AWS), Business Intelligence, Data Visualization, Full Stack Development
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
@@ -28,9 +30,9 @@ My journey involves continuous learning, working on data-driven projects, and ex
 
 ---
 
-## 📊 Featured Projects
+##  Featured Projects
 
-### 📁 Data Analysis Projects
+### Data Analysis Projects
 
 | Project Name | Live Link | Description | Tools Used |
 |-------------|----------|-------------|-------------|
@@ -41,7 +43,7 @@ My journey involves continuous learning, working on data-driven projects, and ex
 
 ---
 
-# 🤖 Machine Learning Projects
+# Machine Learning Projects
 
 | Project Name | Live Link | Description | Tools Used |
 |---|---|---|---|
@@ -49,30 +51,34 @@ My journey involves continuous learning, working on data-driven projects, and ex
 
 ---
 
-## 📈 What I Do
+## What I Do
 
-✔️ Data Cleaning & Preprocessing  
-✔️ Data Visualization & Dashboard Creation  
-✔️ Statistical Analysis  
-✔️ Machine Learning Model Building  
-✔️ SQL Query Optimization  
-✔️ Business Insights Generation  
-
+✔️ Data Cleaning & Preprocessing
+✔️ Exploratory Data Analysis (EDA)
+✔️ Data Visualization & Dashboard Development
+✔️ Statistical Analysis
+✔️ Machine Learning Model Development
+✔️ SQL Query Optimization
+✔️ Business Insights Generation
+✔️ Cloud Fundamentals (AWS)
+✔️ Full Stack Web Development Fundamentals
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Machine Learning  
-- Data Engineering Basics  
-- Cloud (AWS for Data Analytics)  
+- Full Stack Development (HTML, CSS, JavaScript, Node.js, Express.js)
+- AWS Data Engineering Services
+- Advanced SQL for Analytics
+- Data Engineering Fundamentals
+- System Design Basics 
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/bala-kiruthika-a03745377/]
-- 📧 Email: [r.balakiruthika@gmail.com]
+-  LinkedIn: [https://www.linkedin.com/in/bala-kiruthika-a03745377/]
+-  Email: [r.balakiruthika@gmail.com]
 
 ---
 
-⭐ *“Turning data into insights and insights into decisions.”*
+*“Turning data into insights and insights into decisions.”*
