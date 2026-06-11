@@ -27,12 +27,7 @@ My journey is driven by continuous learning, hands-on projects, and curiosity ab
 ![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge\&logo=powerbi)
 ![Machine Learning](https://img.shields.io/badge/MachineLearning-red?style=for-the-badge)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge\&logo=scikit-learn)
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazonaws)
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-orange?style=for-the-badge\&logo=amazonaws)
-![AWS Glue](https://img.shields.io/badge/AWS_Glue-orange?style=for-the-badge\&logo=amazonaws)
-![Amazon Athena](https://img.shields.io/badge/Amazon_Athena-orange?style=for-the-badge\&logo=amazonaws)
-![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-orange?style=for-the-badge\&logo=amazonaws)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-orange?style=for-the-badge\&logo=awslambda)
+![AWS](https://img.shields.io/badge/AWS-green?style=for-the-badge\&logo=amazonaws)
 
 
 ---
