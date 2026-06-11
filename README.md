@@ -18,15 +18,23 @@ My journey is driven by continuous learning, hands-on projects, and curiosity ab
 
 ## Skills & Tools
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
-![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel)
-![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=postgresql)
-![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=java)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge\&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge\&logo=pandas)
+![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge\&logo=microsoft-excel)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge\&logo=postgresql)
+![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge\&logo=powerbi)
 ![Machine Learning](https://img.shields.io/badge/MachineLearning-red?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge\&logo=scikit-learn)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazonaws)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-orange?style=for-the-badge\&logo=amazonaws)
+![AWS Glue](https://img.shields.io/badge/AWS_Glue-orange?style=for-the-badge\&logo=amazonaws)
+![Amazon Athena](https://img.shields.io/badge/Amazon_Athena-orange?style=for-the-badge\&logo=amazonaws)
+![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-orange?style=for-the-badge\&logo=amazonaws)
+![Amazon EMR](https://img.shields.io/badge/Amazon_EMR-orange?style=for-the-badge\&logo=amazonaws)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-orange?style=for-the-badge\&logo=awslambda)
+
 
 ---
 
