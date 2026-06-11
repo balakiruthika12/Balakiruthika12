@@ -60,7 +60,7 @@ My journey is driven by continuous learning, hands-on projects, and curiosity ab
 
 ## What I Do
 
-✔️ Data Cleaning & Preprocessing
+✔️ Data Cleaning and Preprocessing
 ✔️ Exploratory Data Analysis (EDA)
 ✔️ Data Visualization & Dashboard Development
 ✔️ Statistical Analysis
