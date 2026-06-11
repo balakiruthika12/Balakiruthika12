@@ -55,15 +55,15 @@ My journey is driven by continuous learning, hands-on projects, and curiosity ab
 
 ## What I Do
 
-✔️ Data Cleaning and Preprocessing
-✔️ Exploratory Data Analysis (EDA)
-✔️ Data Visualization & Dashboard Development
-✔️ Statistical Analysis
-✔️ Machine Learning Model Development
-✔️ SQL Query Optimization
-✔️ Business Insights Generation
-✔️ Cloud Fundamentals (AWS)
-✔️ Full Stack Web Development Fundamentals
+ Data Cleaning and Preprocessing
+ Exploratory Data Analysis (EDA)
+ Data Visualization & Dashboard Development
+ Statistical Analysis
+ Machine Learning Model Development
+ SQL Query Optimization
+ Business Insights Generation
+ Cloud Fundamentals (AWS)
+ Full Stack Web Development Fundamentals
 ---
 
 ## 🌱 Currently Learning
